@@ -1,9 +1,4 @@
----
-layout: single
-author_profile: true
-title: About Me
-permalink: 
----
+
 
 ## Welcome to GitHub Pages
 
